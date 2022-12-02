@@ -1,0 +1,6 @@
+<!doctype html>
+<html>
+<body>
+<h2>My First Git Try</h2>
+</body>
+</html>
